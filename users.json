@@ -1,8 +1,5 @@
 {
     "users": [
-        { "username": "default", "password": "12345678" },
-        { "username": "default", "password": "12345678" },
-        { "username": "default", "password": "12345678" },
-        { "username": "default", "password": "12345678" }
+        { "username": "PeteTong", "password": "qwert", "firstName": "Pete","lastName": "Tong","pass1":"Pete Tong","address1": "Privet Drive","address2": "Little Whinging","creditCard":"12342134123412341234","expDate": "11/30"}
     ]
 }

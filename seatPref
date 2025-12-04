@@ -1,0 +1,6 @@
+{
+    "seats": [
+        { "Aisle","Window","None"}],
+    "seatClass": [
+                { "First","Business","Coach"}]
+}
