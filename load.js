@@ -47,13 +47,12 @@ export const options = {
             maxVUs: 50,
             preAllocatedVUs: 0,
             stages: [
-                {target: 60, duration: '300s'},
+                {target: 60, duration: '300'},
                 {target: 60, duration: '600s'},
                 {target: 72, duration: '300s'},
                 {target: 72, duration: '600s'},
             ]
         },
-
         wwwRu: {
             exec: 'getRu',
             executor: 'ramping-arrival-rate',
